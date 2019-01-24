@@ -11,9 +11,6 @@ __pycache__/
 local_settings.py
 db.sqlite3
 /media
-.vscode
-/.vscode
-vscode
 Pipfile
 Pipfile.lock
 /staticm
